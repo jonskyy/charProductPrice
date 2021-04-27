@@ -1,0 +1,13 @@
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\bin\Debug\WindowsFormsApp_OData.exe.config
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\bin\Debug\WindowsFormsApp_OData.exe
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\bin\Debug\WindowsFormsApp_OData.pdb
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.csprojAssemblyReference.cache
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.Properties.Resources.resources
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.csproj.GenerateResource.cache
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.csproj.CoreCompileInputs.cache
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.exe
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.pdb
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.csproj.CopyComplete
+C:\Users\joann\source\repos\WindowsFormsApp_OData\WindowsFormsApp_OData\obj\Debug\WindowsFormsApp_OData.CharProcuctPrice.resources
